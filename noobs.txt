@@ -1,2 +1,6 @@
 List of attendees for the git workflows brown bag
 -------------------------------------------------
+
+
+
+Latest Contributor = 
