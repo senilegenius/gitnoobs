@@ -1,6 +1,6 @@
 List of attendees for the git workflows brown bag
 -------------------------------------------------
-Nirmal Ranganathan
+cooper
 
 
-Latest Contributor = Nirmal Ranganathan
+Latest Contributor = cooper
